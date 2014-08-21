@@ -21,7 +21,7 @@ The keyboard is based on the U.S. Extended layout
 ### Option and Option Shift
 #### Direct input
 
-![option-deadkey](https://cloud.githubusercontent.com/assets/536441/4001026/a3528b6a-295f-11e4-823c-96a7889f42be.jpg)
+![](https://cloud.githubusercontent.com/assets/536441/4001026/a3528b6a-295f-11e4-823c-96a7889f42be.jpg)
 
 1. Turn on **Show Keyboard Viewer** 
 2. Now press `Option` and notice the characters that have changed, e.g. 
