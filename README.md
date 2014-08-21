@@ -20,6 +20,9 @@ The keyboard is based on the U.S. Extended layout
 ## How to see the characters available? 
 ### Option and Option Shift
 #### Direct input
+
+![option-deadkey](https://cloud.githubusercontent.com/assets/536441/4001026/a3528b6a-295f-11e4-823c-96a7889f42be.jpg)
+
 1. Turn on **Show Keyboard Viewer** 
 2. Now press `Option` and notice the characters that have changed, e.g. 
   * `Option-1` = ă
@@ -32,7 +35,7 @@ The keyboard is based on the U.S. Extended layout
 
 #### Deadkey State: Option-Deadkey = 
 1. With the Keyboard Viewer on, if you press `Option` you'll see colored keys. In this *deadkey state*, select, say, the `x` key, which appears as `.` on the Keybaord Viewer. Pressing the `x` key will then show all of the characters that have a  `.` underneath them, e.g. `ḥ` or `ṭ`. 
-![option-deadkey](https://cloud.githubusercontent.com/assets/536441/4001026/a3528b6a-295f-11e4-823c-96a7889f42be.jpg)
+
 
 
 ### Known Issues
