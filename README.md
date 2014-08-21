@@ -1,5 +1,7 @@
 ANE-keyboard for Mac OS X 
 =======
+File made with [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) the Mac OS X Keyboard Layout Editor. 
+
 
 Ancient Near Eastern Studies keyboard layout is a layout that lends itself to writing for Ancient Near Eastern Studies, namely there are Unicode character mappings for commonly used characters, e.g. āēīōū âêîôû ṣṭṯḫḡ and others.  
 
