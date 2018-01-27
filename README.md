@@ -7,15 +7,11 @@ Ancient Near Eastern Studies keyboard layout is a layout that lends itself to wr
 
 The keyboard is based on the U.S. Extended layout
 
+## Installation
 
-## How to use the code
-1. Paste the code into a text editor, e.g. [Atom](atom.io)
-  * To rename the keyboard name, rename the value `name` in the line `<keyboard group="126" id="-2" name="ANE v3.5" maxout="3">`. This is the name that shows up in the keyboard menu. 
-2. Save with the file extension `.keylayout`, e.g. `ANE.keylayout` in /Library/Keyboard layouts/ (could also be on User, but this is where I keep mine). You might need to make a directory if one doesn't exist. 
-3. Now go to System Preferances > Keyboard and depending on your system (e.g. 10.9), there will be a way to add a new keyboard.
-  * In 10.6, the full list of all keyboards were available and after enabling your new keyboard, you had to make sure an app you want to use the keyboard in launches anew in order for the app to *see* the new keyboard. Since I wanted to use the layout in more than one app, I'd usually just log out and in. In 10.9, this is no longer required :thumbsup:
-4. If you want to have an icon for your keyboard, you'll need to add an `.icns` with the exact `name` as you gave it in 
- `<keyboard group="126" id="-2" name="ANE v3.5" maxout="3">` above
+1. Download the project
+1. Extract the `.keylayout` and `.icns` files and put in either your `/Library/Keyboard Layouts/` or `User/yourusername/Library/Keyboard Layouts/` directory. You might need to make the `Keyboard Layout` directory if one doesn't exist. 
+1. Go to System Preferances > Keyboard and add the new keyboard.
 
 ## How to see the characters available? 
 ### Option and Option Shift
@@ -43,3 +39,8 @@ The keyboard is based on the U.S. Extended layout
 2. `Option-/` and similarly `Option-Shift-/` = `null` This maps to Egyptological alef ![Egyptological alef](http://upload.wikimedia.org/wikipedia/commons/a/a6/U-A723_LATIN_SMALL_LETTER_EGYPTOLOGICAL_ALEF.gif)
 2. 'Option-\` is a forced bar over
 3. 'Option-Shift-0` = `null`  
+
+### Troublshooting
+If you're having issues, try going to `/Library/Keyboard Layouts/` or `User/yourusername/Library/Keyboard Layouts/` and removing the keyboard and then readding. It might not hurt to log out and in or at least relaunch Finder. 
+
+If you have issues, add an issue and I'll take a look. 
